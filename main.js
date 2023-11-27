@@ -5,7 +5,7 @@ function showClick(){
    btn.addEventListener('click', function(){
      list.classList.toggle('active')
    })
-   list.addEventListener('click', function (params) {
+   list.addEventListener('click', function () {
       list.classList.remove('active')
    })
 
