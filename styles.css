@@ -365,6 +365,9 @@ span{
       /* border: none; */
       border-radius: 5px;
     }
+    .btn{
+        width: 280px;
+    }
     .section1{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
